@@ -1,0 +1,17 @@
+{
+  "name": "checkdomains",
+  "version": "1.0.0",
+  "description": "this script checks when domain names will be expired",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^3.2.0",
+    "moment": "^2.24.0",
+    "whois": "^2.12.1"
+  }
+}
