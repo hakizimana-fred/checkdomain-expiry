@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "async": "^3.2.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "whois": "^2.12.1"
   }
 }
